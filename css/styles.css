@@ -1,0 +1,30 @@
+.blackbrdr {
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+
+.carCards {
+	height: 150px;
+	max-height: 150px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+}
+
+.thickBorder {
+	border: 3px solid black;
+}
+
+.greenBkgrd {
+	background-color: #3ffc9a;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.flexitem {
+	flex-basis: 25%;
+}

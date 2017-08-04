@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2012",
+      "price": "$15,000",
+      "description": "This bad boy is loaded!"
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "1998",
+      "price": "$8,000",
+      "description": "It may be older, but it has lots of miles to go."
+    },
+    {
+      "make": "Ford",
+      "model": "F-550",
+      "year": "2006",
+      "price": "$20,000",
+      "description": "Gas mileage is overrated anyway."
+    },
+    {
+      "make": "Buick",
+      "model": "High Roller",
+      "year": "2017",
+      "price": "$29,000",
+      "description": "This ain't your mamma's Buick."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "year": "2015",
+      "price": "$22,000",
+      "description": "A true beauty."
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": "2017",
+      "price": "$59,000",
+      "description": "It drives so you don't have to."
+    }
+  ]
+}
